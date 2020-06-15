@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 NextLevelWeek 1.0 🚀 Backend finalizado 🚧
+	🚧  NextLevelWeek 1.0 🚀  Backend finalizado 🚧
 </h4>
 
 <p align="center">
@@ -29,9 +29,9 @@
 
 
 
-## 💻 Sobre o projeto
+## 💻  Sobre o projeto
 
-♻️Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️  Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
@@ -53,7 +53,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rockets
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 
-## 🎨 Layout
+## 🎨  Layout
 
 O layout da aplicação está disponível no Figma:
 
@@ -89,7 +89,7 @@ O layout da aplicação está disponível no Figma:
   
 </p>
 
-## 🛠 Tecnologias
+## 🛠  Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -97,16 +97,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript][typescript]
 
 
-## 🚀 Como rodar este projeto
+## 🚀  Como rodar este projeto
 
 Podemos considerar este projeto como sendo divido em três partes:
 1. <a href="https://github.com/DanielSilvado/ecoleta-backend" target="_blank">Back End</a> 
 2. <a href="https://github.com/DanielSilvado/ecoleta-frontend" target="_blank">Front End</a> 
 3. Mobile (Em breve)
 
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
+💡  Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🧭  Rodando a aplicação web (Front End)
 
 ```bash
 # Clone este repositório
@@ -124,7 +124,7 @@ $ npm run dev
 # A aplicação será aberta na porta:3333 - acesse http://localhost:3333
 ```
 
-## 😯 Como contribuir para o projeto
+## 😯  Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -133,7 +133,7 @@ $ npm run dev
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
 
-## 📝 Licença
+## 📝  Licença
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](license) para saber mais.
 
