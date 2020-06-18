@@ -69,11 +69,8 @@ O layout da aplicação está disponível no Figma:
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/detalhes-mobile.svg" width="200px">
 </p>
-
-<p align="center">
-  
+<p align="center">  
 </p>
-
 
 ### Web
 
