@@ -103,11 +103,11 @@ Podemos considerar este projeto como sendo divido em três partes:
 
 💡  Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
 
-### 🧭  Rodando a aplicação web (Front End)
+### 🧭  Rodando a aplicação web (Back end)
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DanielSilvado/ecoleta-frontend.git
+$ git clone https://github.com/DanielSilvado/ecoleta-backend.git
 
 # Vá para a pasta da aplicação Front End
 $ cd serve
