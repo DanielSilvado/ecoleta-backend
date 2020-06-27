@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  NextLevelWeek 1.0 🚀  Backend finalizado 🚧
+	NextLevelWeek 1.0 🚀
 </h4>
 
 <p align="center">
